@@ -1,1 +1,1 @@
-# Sites - My sites
+# Sites
