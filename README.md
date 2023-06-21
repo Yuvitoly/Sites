@@ -1,1 +1,1 @@
-# Sites - для создания задач / for create tasks
+# Sites - for create tasks / для создания задач
